@@ -1,0 +1,1 @@
+# flutter-offline-data-collector-App-for-AI-
